@@ -35,8 +35,8 @@
    ============================================================== */
 
 const CONFIG = {
-  DISCORD_WEBHOOK_URL: "", // ex: "https://discord.com/api/webhooks/XXXXXXXX/XXXXXXXX"
-  EMAIL_TO: "",             // ex: "vous@example.com"
+  DISCORD_WEBHOOK_URL: "", // https://discord.com/api/webhooks/1532053133428129822/WeIEqr1zP89-OWW9BrwRfdfW85fcQo5TaE7qgmGZXL2c7zdH29m7NhaotnHwp8KbXVix
+  EMAIL_TO: "",             // "nailmaxence@gmail.com"
   CUSTOM_WEBHOOK_URL: "",   // ex: "https://xxxx.supabase.co/functions/v1/reponse-date"
 
   // Personnalisation rapide (facultatif)
